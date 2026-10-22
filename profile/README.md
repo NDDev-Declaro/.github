@@ -5,3 +5,5 @@
 Public-sector engineering, built with care.
 
 [Visit NDDev](https://nddev.ai)
+
+[Contact](mailto:danil@nddev.ai)
