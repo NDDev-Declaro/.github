@@ -9,7 +9,7 @@ permissions: {}
 
 jobs:
   security:
-    uses: NDDev-Technocracy-OpenNetwork/nddev-ci/.github/workflows/security.yml@71a73f4fe8f49fe570b97996798ba8eb0c5a497a # v0.6.132
+    uses: NDDev-Technocracy-OpenNetwork/nddev-ci/.github/workflows/security.yml@9f098eadedf0fa46504831f4e67b502560a74d16 # v0.6.134
     permissions:
       contents: read
     with:
