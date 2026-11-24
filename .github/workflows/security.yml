@@ -9,9 +9,8 @@ permissions: {}
 
 jobs:
   security:
-    uses: NDDev-Technocracy-OpenNetwork/nddev-ci/.github/workflows/security.yml@da7d6fd99e4fe8ed90e59a970043bde90486190d # v0.6.103
+    uses: NDDev-Technocracy-OpenNetwork/nddev-ci/.github/workflows/security.yml@453260abc91be392dc099bfa774baecde05e8152 # v0.6.129
     permissions:
       contents: read
-      issues: write
     with:
       hosted-runner: ubuntu-26.04
